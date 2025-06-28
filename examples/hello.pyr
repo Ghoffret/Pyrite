@@ -1,0 +1,2 @@
+App:
+    Text "Welcome to Pyrite" color=blue
