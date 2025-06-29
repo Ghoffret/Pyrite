@@ -1,0 +1,7 @@
+App:
+    Column spacing=5:
+        Text "Welcome to Pyrite" color=blue
+        Button "Click me" on_click => clicked
+
+fun clicked:
+    print "Button clicked!"
